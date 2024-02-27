@@ -49,7 +49,10 @@
      <Compile Include="Assets\VRTemplateAssets\Scripts\RayAttachModifier.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\Callout.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\XRPokeFollowAffordanceFill.cs" />
+     <Compile Include="Assets\WarehouseConstructionSet\Source\Scripts\WH_Doors.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\CalloutGazeController.cs" />
+     <Compile Include="Assets\WarehouseConstructionSet\Source\Scripts\Traffic.cs" />
+     <Compile Include="Assets\WarehouseConstructionSet\Source\Scripts\Door_ID.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\BezierCurve.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\LaunchProjectile.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\StepManager.cs" />
