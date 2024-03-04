@@ -65,9 +65,11 @@
      <Compile Include="Assets\Asset Store\Scissor_lift\Scripts\liftAnim.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\AnchorVisuals.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+     <None Include="Assets\Models\Trees\license.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\VRTemplateAssets\Shaders\FauxBlurURP.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\NatureManufacture Assets\Realistic Tree Pack 1\Tree Modification.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
