@@ -41,13 +41,16 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Models\Lift Animation\Power Station Animations\EnableGameObjectAfterDelay.cs" />
+     <Compile Include="Assets\Models\Lift Animation\StartButtonActivate.cs" />
      <Compile Include="Assets\Construction_Site_Props_HQ\Scripts\ConstructionSiteLight.cs" />
+     <Compile Include="Assets\Models\Lift Animation\ColliderSwitchObjects.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\DestroyObject.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\VideoTimeScrubControl.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\VideoPlayerRenderTexture.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\Rotator.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\XRKnob.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\BooleanToggleVisualsController.cs" />
+     <Compile Include="Assets\Models\Lift Animation\LiftObjectsSwap.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\RayAttachModifier.cs" />
      <Compile Include="Assets\Models\Lift Animation\MoveXRWithObject.cs" />
      <Compile Include="Assets\Models\Lift Animation\ColliderInteractionHandler.cs" />
