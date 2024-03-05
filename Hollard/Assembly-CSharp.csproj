@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Models\Lift Animation\Power Station Animations\EnableGameObjectAfterDelay.cs" />
+     <Compile Include="Assets\Construction_Site_Props_HQ\Scripts\ConstructionSiteLight.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\DestroyObject.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\VideoTimeScrubControl.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\VideoPlayerRenderTexture.cs" />
@@ -57,8 +58,10 @@
      <Compile Include="Assets\Models\Lift Animation\EnableObjectsOnTrigger.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\CalloutGazeController.cs" />
      <Compile Include="Assets\Models\Lift Animation\Power Station Animations\AnimationController.cs" />
+     <Compile Include="Assets\Construction_Site_Props_HQ\Scripts\CameraFreeflight.cs" />
      <Compile Include="Assets\WarehouseConstructionSet\Source\Scripts\Traffic.cs" />
      <Compile Include="Assets\WarehouseConstructionSet\Source\Scripts\Door_ID.cs" />
+     <Compile Include="Assets\Models\EnableAfterTime.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\BezierCurve.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\LaunchProjectile.cs" />
      <Compile Include="Assets\VRTemplateAssets\Scripts\StepManager.cs" />
@@ -74,6 +77,7 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\Samples\XR Interaction Toolkit\2.4.3\Tunneling Vignette\TunnelingVignette.shader" />
+     <None Include="Assets\Construction_Site_Props_HQ\install_RP_Versions.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\VRTemplateAssets\Shaders\Grid.shader" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
